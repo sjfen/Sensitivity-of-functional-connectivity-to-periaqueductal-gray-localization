@@ -1,0 +1,1 @@
+3dROIstats -mask Clust_mask_Wei+tlrc.  Patients/demean/globemean/zcoefWei2_0*.HEAD  HealthyControl/demean/globemean/zcoefWeo2_0*.HEAD  >> CustoutWeitoWei

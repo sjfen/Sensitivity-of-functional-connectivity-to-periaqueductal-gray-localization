@@ -1,0 +1,1 @@
+3dROIstats -mask Clust_mask_MNI+tlrc.  Patients/demean/globemean/zcoefMNI2_0*.HEAD  HealthyControl/demean/globemean/zcoefMNI2_0*.HEAD  >> CustoutMNItoMNI

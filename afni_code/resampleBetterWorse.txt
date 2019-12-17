@@ -1,0 +1,7 @@
+3dresample -dxyz 2 2 2 -prefix OBetter_2mm.nii -input OBetter.nii
+
+3dresample -dxyz 2 2 2 -prefix VBetter_2mm.nii -input VBetter.nii
+
+3dresample -dxyz 2 2 2 -prefix OWorse_2mm.nii -input OWorse.nii
+
+3dresample -dxyz 2 2 2 -prefix VWorse_2mm.nii -input VWorse.nii
