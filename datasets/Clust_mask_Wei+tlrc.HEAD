@@ -1,0 +1,111 @@
+
+type = string-attribute
+name = HISTORY_NOTE
+count = 10052
+'[amplmember@ampl4.usc.edu: Fri Feb 15 17:21:59 2019] {AFNI_18.1.18:macosx_10.7_Intel_64} 3dttest++ -prefix ttest++_result_Wei_HC -mask /Volumes/AmplStorage2/Experiments/StatsData/PAG/Errts_PAG/meanmask+tlrc. -clustsim -setA setA 101100692 'HealthyControl/demean/globemean/zcoefWei2_0101100692+tlrc.HEAD[0]' 101100694 'HealthyControl/demean/globemean/zcoefWei2_0101100694+tlrc.HEAD[0]' 101100836 'HealthyControl/demean/globemean/zcoefWei2_0101100836+tlrc.HEAD[0]' 101101082 'HealthyControl/demean/globemean/zcoefWei2_0101101082+tlrc.HEAD[0]' 101101162 'HealthyControl/demean/globemean/zcoefWei2_0101101162+tlrc.HEAD[0]' 101101197 'HealthyControl/demean/globemean/zcoefWei2_0101101197+tlrc.HEAD[0]' 101101199 'HealthyControl/demean/globemean/zcoefWei2_0101101199+tlrc.HEAD[0]' 101101231 'HealthyControl/demean/globemean/zcoefWei2_0101101231+tlrc.HEAD[0]' 101101239 'HealthyControl/demean/globemean/zcoefWei2_0101101239+tlrc.HEAD[0]' 101101248 'HealthyControl/demean/globemean/zcoefWei2_0101101248+tlrc.HEAD[0]' 101101272 'HealthyControl/demean/globemean/zcoefWei2_0101101272+tlrc.HEAD[0]' 101101278 'HealthyControl/demean/globemean/zcoefWei2_0101101278+tlrc.HEAD[0]' 101101284 'HealthyControl/demean/globemean/zcoefWei2_0101101284+tlrc.HEAD[0]' 101101287 'HealthyControl/demean/globemean/zcoefWei2_0101101287+tlrc.HEAD[0]' 101101292 'HealthyControl/demean/globemean/zcoefWei2_0101101292+tlrc.HEAD[0]' 101101300 'HealthyControl/demean/globemean/zcoefWei2_0101101300+tlrc.HEAD[0]' 101101302 'HealthyControl/demean/globemean/zcoefWei2_0101101302+tlrc.HEAD[0]' 101101341 'HealthyControl/demean/globemean/zcoefWei2_0101101341+tlrc.HEAD[0]' 101101374 'HealthyControl/demean/globemean/zcoefWei2_0101101374+tlrc.HEAD[0]' 101101420 'HealthyControl/demean/globemean/zcoefWei2_0101101420+tlrc.HEAD[0]' 101101428 'HealthyControl/demean/globemean/zcoefWei2_0101101428+tlrc.HEAD[0]' 101101501 'HealthyControl/demean/globemean/zcoefWei2_0101101501+tlrc.HEAD[0]' 101102021 'HealthyControl/demean/globemean/zcoefWei2_0101102021+tlrc.HEAD[0]' 201100633 'HealthyControl/demean/globemean/zcoefWei2_0201100633+tlrc.HEAD[0]' 201100634 'HealthyControl/demean/globemean/zcoefWei2_0201100634+tlrc.HEAD[0]' 201100650 'HealthyControl/demean/globemean/zcoefWei2_0201100650+tlrc.HEAD[0]' 201100660 'HealthyControl/demean/globemean/zcoefWei2_0201100660+tlrc.HEAD[0]' 201100661 'HealthyControl/demean/globemean/zcoefWei2_0201100661+tlrc.HEAD[0]' 201100728 'HealthyControl/demean/globemean/zcoefWei2_0201100728+tlrc.HEAD[0]' 201100738 'HealthyControl/demean/globemean/zcoefWei2_0201100738+tlrc.HEAD[0]' 201100834 'HealthyControl/demean/globemean/zcoefWei2_0201100834+tlrc.HEAD[0]' 201100849 'HealthyControl/demean/globemean/zcoefWei2_0201100849+tlrc.HEAD[0]' 201100908 'HealthyControl/demean/globemean/zcoefWei2_0201100908+tlrc.HEAD[0]' 201100927 'HealthyControl/demean/globemean/zcoefWei2_0201100927+tlrc.HEAD[0]' 201101064 'HealthyControl/demean/globemean/zcoefWei2_0201101064+tlrc.HEAD[0]' 201101098 'HealthyControl/demean/globemean/zcoefWei2_0201101098+tlrc.HEAD[0]' 201101103 'HealthyControl/demean/globemean/zcoefWei2_0201101103+tlrc.HEAD[0]' 201101167 'HealthyControl/demean/globemean/zcoefWei2_0201101167+tlrc.HEAD[0]' 201101168 'HealthyControl/demean/globemean/zcoefWei2_0201101168+tlrc.HEAD[0]' 201101194 'HealthyControl/demean/globemean/zcoefWei2_0201101194+tlrc.HEAD[0]' 201101234 'HealthyControl/demean/globemean/zcoefWei2_0201101234+tlrc.HEAD[0]' 201101308 'HealthyControl/demean/globemean/zcoefWei2_0201101308+tlrc.HEAD[0]' 201101340 'HealthyControl/demean/globemean/zcoefWei2_0201101340+tlrc.HEAD[0]' 201101391 'HealthyControl/demean/globemean/zcoefWei2_0201101391+tlrc.HEAD[0]' 201101498 'HealthyControl/demean/globemean/zcoefWei2_0201101498+tlrc.HEAD[0]' 201101499 'HealthyControl/demean/globemean/zcoefWei2_0201101499+tlrc.HEAD[0]' 201101500 'HealthyControl/demean/globemean/zcoefWei2_0201101500+tlrc.HEAD[0]' 201101583 'HealthyControl/demean/globemean/zcoefWei2_0201101583+tlrc.HEAD[0]' 201101686 'HealthyControl/demean/globemean/zcoefWei2_0201101686+tlrc.HEAD[0]' 201101782 'HealthyControl/demean/globemean/zcoefWei2_0201101782+tlrc.HEAD[0]' 201101791 'HealthyControl/demean/globemean/zcoefWei2_0201101791+tlrc.HEAD[0]' 201101800 'HealthyControl/demean/globemean/zcoefWei2_0201101800+tlrc.HEAD[0]' 201101815 'HealthyControl/demean/globemean/zcoefWei2_0201101815+tlrc.HEAD[0]' 201101855 'HealthyControl/demean/globemean/zcoefWei2_0201101855+tlrc.HEAD[0]' 201101875 'HealthyControl/demean/globemean/zcoefWei2_0201101875+tlrc.HEAD[0]' 201101914 'HealthyControl/demean/globemean/zcoefWei2_0201101914+tlrc.HEAD[0]' 201101937 'HealthyControl/demean/globemean/zcoefWei2_0201101937+tlrc.HEAD[0]' 401101017 'HealthyControl/demean/globemean/zcoefWei2_0401101017+tlrc.HEAD[0]' 401101021 'HealthyControl/demean/globemean/zcoefWei2_0401101021+tlrc.HEAD[0]' 401101062 'HealthyControl/demean/globemean/zcoefWei2_0401101062+tlrc.HEAD[0]' 401101175 'HealthyControl/demean/globemean/zcoefWei2_0401101175+tlrc.HEAD[0]' 401101217 'HealthyControl/demean/globemean/zcoefWei2_0401101217+tlrc.HEAD[0]' 401101230 'HealthyControl/demean/globemean/zcoefWei2_0401101230+tlrc.HEAD[0]' 401101252 'HealthyControl/demean/globemean/zcoefWei2_0401101252+tlrc.HEAD[0]' 401101398 'HealthyControl/demean/globemean/zcoefWei2_0401101398+tlrc.HEAD[0]' 401101399 'HealthyControl/demean/globemean/zcoefWei2_0401101399+tlrc.HEAD[0]' 401101465 'HealthyControl/demean/globemean/zcoefWei2_0401101465+tlrc.HEAD[0]' 401101623 'HealthyControl/demean/globemean/zcoefWei2_0401101623+tlrc.HEAD[0]' 401101635 'HealthyControl/demean/globemean/zcoefWei2_0401101635+tlrc.HEAD[0]' 401101642 'HealthyControl/demean/globemean/zcoefWei2_0401101642+tlrc.HEAD[0]' 401101678 'HealthyControl/demean/globemean/zcoefWei2_0401101678+tlrc.HEAD[0]' 401101688 'HealthyControl/demean/globemean/zcoefWei2_0401101688+tlrc.HEAD[0]' 401101722 'HealthyControl/demean/globemean/zcoefWei2_0401101722+tlrc.HEAD[0]' 401101799 'HealthyControl/demean/globemean/zcoefWei2_0401101799+tlrc.HEAD[0]' 401101814 'HealthyControl/demean/globemean/zcoefWei2_0401101814+tlrc.HEAD[0]' 401101907 'HealthyControl/demean/globemean/zcoefWei2_0401101907+tlrc.HEAD[0]' 401101915 'HealthyControl/demean/globemean/zcoefWei2_0401101915+tlrc.HEAD[0]' 401101938 'HealthyControl/demean/globemean/zcoefWei2_0401101938+tlrc.HEAD[0]' 401101956 'HealthyControl/demean/globemean/zcoefWei2_0401101956+tlrc.HEAD[0]' 401101987 'HealthyControl/demean/globemean/zcoefWei2_0401101987+tlrc.HEAD[0]' 401101991 'HealthyControl/demean/globemean/zcoefWei2_0401101991+tlrc.HEAD[0]' 401102006 'HealthyControl/demean/globemean/zcoefWei2_0401102006+tlrc.HEAD[0]' 401102023 'HealthyControl/demean/globemean/zcoefWei2_0401102023+tlrc.HEAD[0]' 401102024 'HealthyControl/demean/globemean/zcoefWei2_0401102024+tlrc.HEAD[0]' 602101031 'HealthyControl/demean/globemean/zcoefWei2_0602101031+tlrc.HEAD[0]' 602101075 'HealthyControl/demean/globemean/zcoefWei2_0602101075+tlrc.HEAD[0]' 602101107 'HealthyControl/demean/globemean/zcoefWei2_0602101107+tlrc.HEAD[0]' 602101113 'HealthyControl/demean/globemean/zcoefWei2_0602101113+tlrc.HEAD[0]' 602101191 'HealthyControl/demean/globemean/zcoefWei2_0602101191+tlrc.HEAD[0]' 602101370 'HealthyControl/demean/globemean/zcoefWei2_0602101370+tlrc.HEAD[0]' 602101887 'HealthyControl/demean/globemean/zcoefWei2_0602101887+tlrc.HEAD[0]' 704101176 'HealthyControl/demean/globemean/zcoefWei2_0704101176+tlrc.HEAD[0]' 704101297 'HealthyControl/demean/globemean/zcoefWei2_0704101297+tlrc.HEAD[0]' 704101310 'HealthyControl/demean/globemean/zcoefWei2_0704101310+tlrc.HEAD[0]' 704101350 'HealthyControl/demean/globemean/zcoefWei2_0704101350+tlrc.HEAD[0]' 704101413 'HealthyControl/demean/globemean/zcoefWei2_0704101413+tlrc.HEAD[0]' 704101430 'HealthyControl/demean/globemean/zcoefWei2_0704101430+tlrc.HEAD[0]' 704101696 'HealthyControl/demean/globemean/zcoefWei2_0704101696+tlrc.HEAD[0]' 704101744 'HealthyControl/demean/globemean/zcoefWei2_0704101744+tlrc.HEAD[0]' 704101756 'HealthyControl/demean/globemean/zcoefWei2_0704101756+tlrc.HEAD[0]' 704101765 'HealthyControl/demean/globemean/zcoefWei2_0704101765+tlrc.HEAD[0]' 704101769 'HealthyControl/demean/globemean/zcoefWei2_0704101769+tlrc.HEAD[0]' 704101783 'HealthyControl/demean/globemean/zcoefWei2_0704101783+tlrc.HEAD[0]' 704101787 'HealthyControl/demean/globemean/zcoefWei2_0704101787+tlrc.HEAD[0]' 704101797 'HealthyControl/demean/globemean/zcoefWei2_0704101797+tlrc.HEAD[0]' 704101804 'HealthyControl/demean/globemean/zcoefWei2_0704101804+tlrc.HEAD[0]' 704101821 'HealthyControl/demean/globemean/zcoefWei2_0704101821+tlrc.HEAD[0]' 704101834 'HealthyControl/demean/globemean/zcoefWei2_0704101834+tlrc.HEAD[0]' 704101843 'HealthyControl/demean/globemean/zcoefWei2_0704101843+tlrc.HEAD[0]'\n[amplmember@ampl4.usc.edu: Fri Feb 15 17:30:59 2019] {AFNI_18.1.18:macosx_10.7_Intel_64} 3drefit -atrstring AFNI_CLUSTSIM_NN1_1sided file:ttest++_result_Wei_HC.CSimA.NN1_1sided.niml -atrstring AFNI_CLUSTSIM_NN2_1sided file:ttest++_result_Wei_HC.CSimA.NN2_1sided.niml -atrstring AFNI_CLUSTSIM_NN3_1sided file:ttest++_result_Wei_HC.CSimA.NN3_1sided.niml -atrstring AFNI_CLUSTSIM_NN1_2sided file:ttest++_result_Wei_HC.CSimA.NN1_2sided.niml -atrstring AFNI_CLUSTSIM_NN2_2sided file:ttest++_result_Wei_HC.CSimA.NN2_2sided.niml -atrstring AFNI_CLUSTSIM_NN3_2sided file:ttest++_result_Wei_HC.CSimA.NN3_2sided.niml -atrstring AFNI_CLUSTSIM_NN1_bisided file:ttest++_result_Wei_HC.CSimA.NN1_bisided.niml -atrstring AFNI_CLUSTSIM_NN2_bisided file:ttest++_result_Wei_HC.CSimA.NN2_bisided.niml -atrstring AFNI_CLUSTSIM_NN3_bisided file:ttest++_result_Wei_HC.CSimA.NN3_bisided.niml ./ttest++_result_Wei_HC+tlrc.HEAD\n[amplmember@ampl4.usc.edu: Fri Feb 15 20:11:55 2019] == Interactive clusterize mask:\n[amplmember@ampl4.usc.edu: Fri Feb 15 20:11:55 2019] 3dclust -1Dformat -nosum -1dindex 0 -1tindex 1 -2thresh -4.417 4.417 -dxyz=1 -savemask Clust_mask 1.01 6 /Volumes/AmplStorage2/Experiments/StatsData/PAG/Stats_PAG_10122018/VoxelBased_Correlation/AFNI_Voxelwise/HealthyPatients/AllData_ttest_check/ttest++_result_Wei_HC+tlrc.HEAD~
+
+type = string-attribute
+name = TYPESTRING
+count = 15
+'3DIM_HEAD_FUNC~
+
+type = string-attribute
+name = IDCODE_STRING
+count = 27
+'AFN_tL2Y2EkzFzvGA8-CvJnhYA~
+
+type = string-attribute
+name = IDCODE_DATE
+count = 25
+'Fri Feb 15 20:11:55 2019~
+
+type = integer-attribute
+name = SCENE_DATA
+count = 8
+ 2 11 1 -999 -999
+ -999 -999 -999
+
+type = string-attribute
+name = LABEL_1
+count = 5
+'zyxt~
+
+type = string-attribute
+name = LABEL_2
+count = 5
+'zyxt~
+
+type = string-attribute
+name = DATASET_NAME
+count = 5
+'zyxt~
+
+type = integer-attribute
+name = ORIENT_SPECIFIC
+count = 3
+ 1 2 4
+
+type  = float-attribute
+name  = ORIGIN
+count = 3
+             90            126            -72
+
+type  = float-attribute
+name  = DELTA
+count = 3
+             -3             -3              3
+
+type  = float-attribute
+name  = IJK_TO_DICOM
+count = 12
+             -3              0              0             90              0
+             -3              0            126              0              0
+              3            -72
+
+type  = float-attribute
+name  = IJK_TO_DICOM_REAL
+count = 12
+             -3              0              0             90              0
+             -3              0            126              0              0
+              3            -72
+
+type  = float-attribute
+name  = BRICK_STATS
+count = 2
+              0              9
+
+type = integer-attribute
+name = DATASET_RANK
+count = 8
+ 3 1 0 0 0
+ 0 0 0
+
+type = integer-attribute
+name = DATASET_DIMENSIONS
+count = 5
+ 61 73 61 0 0
+
+type = integer-attribute
+name = BRICK_TYPES
+count = 1
+ 1
+
+type  = float-attribute
+name  = BRICK_FLOAT_FACS
+count = 1
+              0
+
+type = string-attribute
+name = TEMPLATE_SPACE
+count = 4
+'MNI~
+
+type = integer-attribute
+name = INT_CMAP
+count = 1
+ 0
+
+type = string-attribute
+name = BYTEORDER_STRING
+count = 10
+'LSB_FIRST~
